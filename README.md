@@ -1,4 +1,4 @@
-\# Python Learning Materials
+# Python Learning Materials
 
 
 
@@ -10,7 +10,7 @@ This repository contains Python explanations, practice questions, and solved exa
 
 
 
-\## Contents
+## Contents
 
 \- Python notes (PDF)
 
@@ -24,7 +24,7 @@ This repository contains Python explanations, practice questions, and solved exa
 
 
 
-\## Purpose
+## Purpose
 
 Educational material for learning Python programming.
 
@@ -34,7 +34,7 @@ Educational material for learning Python programming.
 
 
 
-\## By
+## By
 
-\*\*Mohamed Ahmed Hamed\*\*
+**Mohamed Ahmed Hamed**
 
